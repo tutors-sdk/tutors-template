@@ -1,9 +1,6 @@
-slack     : https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
-moodle    : https://moodle.wit.ie/course/view.php?id=118143&section=3
-youtube   : https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
-credits   : Your Name Here, WIT
-ignorepin : 2125
-auth      : 0
-analytics : 1
-ignore    : 
+slack: https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
+moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
+youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
+credits: Your Name Here, WIT
+ignore:
   - topic-05-next
