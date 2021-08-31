@@ -2,7 +2,6 @@
 icon: 
   type: mdi:beehive-outline
   color: green
-  width: 32
 ---
 
 Lecture 2
