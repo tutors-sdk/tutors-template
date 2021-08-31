@@ -1,6 +1,5 @@
----
-icon: bi:cpu
----
 Lecture 1
 
 A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+
+<Icon icon="fad:logo-audacity" />
