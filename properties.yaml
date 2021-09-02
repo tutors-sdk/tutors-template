@@ -5,3 +5,108 @@ credits: Your Name Here, WIT
 ignorepin : 4321
 ignore:
   - topic-06-next
+
+iconset:
+  programHome:
+    type: la:home
+    color: warning
+  moduleHome:
+    type: la:home
+    color: warning
+  slack:
+    type: la:slack
+    color: error
+  moodle:
+    type: la:university
+    color: warning
+  youtube:
+    type: la:youtube
+    color: error
+  video:
+    type: la:youtube
+    color: error
+  zoom:
+    type: la:youtube-square
+    color: info
+  course:
+    type: la:book-open
+    color: info
+  topic:
+    type: la:project-diagram
+    color: info
+  unit:
+    type: la:digital-tachograph
+    color: success
+  talk:
+    type: la:chalkboard-teacher
+    color: info
+  reference:
+    type: la:folder-open
+    color: warning
+  lab:
+    type: la:flask
+    color: success
+  archive:
+    type: la:home
+    color: info
+  web:
+    type: la:folder-open
+    color: info
+  github:
+    type: la:home
+    color: warning
+  panelvideo:
+    type: la:youtube
+    color: error
+  left:
+    type: la:arrow-left
+    color: success
+  right:
+    type: la:arrow-right
+    color: success
+  print:
+    type: la:home
+    color: success
+  rotate:
+    type: la:redo-alt
+    color: success
+  download:
+    type: la:arrow-down
+    color: success
+  fullScreen:
+    type: la:arrows-alt
+    color: success
+  expand:
+    type: la:home
+    color: success
+  tutorsTime:
+    type: la:home
+    color: info
+  timeExport:
+    type: la:home
+    color: success
+  live:
+    type: la:home
+    color: success
+  search:
+    type: la:home
+    color: info
+  tutors:
+    type: la:home
+    color: info
+  logout:
+    type: la:home
+    color: error
+  dark:
+    type: la:moon
+    color: warning
+  toc:
+    type: la:bars
+  workshop:
+    type: la:home
+  compacted:
+    type: la:grip-vertical
+  expanded:
+    type: la:grip-horizontal
+  default:
+    type: la:home
