@@ -8,105 +8,105 @@ ignore:
 
 iconset:
   programHome:
-    type: la:home
-    color: warning
+    icon: la:home
+    colour: warning
   moduleHome:
-    type: la:home
-    color: warning
+    icon: la:home
+    colour: warning
   slack:
-    type: la:slack
-    color: error
+    icon: la:slack
+    colour: error
   moodle:
-    type: la:university
-    color: warning
+    icon: la:university
+    colour: warning
   youtube:
-    type: la:youtube
-    color: error
+    icon: la:youtube
+    colour: error
   video:
-    type: la:youtube
-    color: error
+    icon: la:youtube
+    colour: error
   zoom:
-    type: la:youtube-square
-    color: info
+    icon: la:youtube-square
+    colour: info
   course:
-    type: la:book-open
-    color: info
+    icon: la:book-open
+    colour: info
   topic:
-    type: la:project-diagram
-    color: info
+    icon: la:project-diagram
+    colour: info
   unit:
-    type: la:digital-tachograph
-    color: success
+    icon: la:digital-tachograph
+    colour: success
   talk:
-    type: la:chalkboard-teacher
-    color: info
+    icon: la:chalkboard-teacher
+    colour: info
   reference:
-    type: la:folder-open
-    color: warning
+    icon: la:folder-open
+    colour: warning
   lab:
-    type: la:flask
-    color: success
+    icon: la:flask
+    colour: success
   archive:
-    type: la:home
-    color: info
+    icon: la:home
+    colour: info
   web:
-    type: la:folder-open
-    color: info
+    icon: la:folder-open
+    colour: info
   github:
-    type: la:home
-    color: warning
+    icon: la:home
+    colour: warning
   panelvideo:
-    type: la:youtube
-    color: error
+    icon: la:youtube
+    colour: error
   left:
-    type: la:arrow-left
-    color: success
+    icon: la:arrow-left
+    colour: success
   right:
-    type: la:arrow-right
-    color: success
+    icon: la:arrow-right
+    colour: success
   print:
-    type: la:home
-    color: success
+    icon: la:home
+    colour: success
   rotate:
-    type: la:redo-alt
-    color: success
+    icon: la:redo-alt
+    colour: success
   download:
-    type: la:arrow-down
-    color: success
+    icon: la:arrow-down
+    colour: success
   fullScreen:
-    type: la:arrows-alt
-    color: success
+    icon: la:arrows-alt
+    colour: success
   expand:
-    type: la:home
-    color: success
+    icon: la:home
+    colour: success
   tutorsTime:
-    type: la:home
-    color: info
+    icon: la:home
+    colour: info
   timeExport:
-    type: la:home
-    color: success
+    icon: la:home
+    colour: success
   live:
-    type: la:home
-    color: success
+    icon: la:home
+    colour: success
   search:
-    type: la:home
-    color: info
+    icon: la:home
+    colour: info
   tutors:
-    type: la:home
-    color: info
+    icon: la:home
+    colour: info
   logout:
-    type: la:home
-    color: error
+    icon: la:home
+    colour: error
   dark:
-    type: la:moon
-    color: warning
+    icon: la:moon
+    colour: warning
   toc:
-    type: la:bars
+    icon: la:bars
   workshop:
-    type: la:home
+    icon: la:home
   compacted:
-    type: la:grip-vertical
+    icon: la:grip-vertical
   expanded:
-    type: la:grip-horizontal
+    icon: la:grip-horizontal
   default:
-    type: la:home
+    icon: la:home
