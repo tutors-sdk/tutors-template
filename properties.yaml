@@ -6,107 +6,107 @@ ignorepin : 4321
 ignore:
   - topic-06-next
 
-iconset:
+iconsset:
   programHome:
-    icon: la:home
-    colour: warning
+    icon: heroicons-outline:home
+    colour: error
   moduleHome:
-    icon: la:home
-    colour: warning
+    icon: heroicons-outline:home
+    colour: error
   slack:
-    icon: la:slack
+    icon: grommet-icons:slack
     colour: error
   moodle:
-    icon: la:university
+    icon: map:university
     colour: warning
   youtube:
-    icon: la:youtube
+    icon: logos:youtube-icon
     colour: error
   video:
-    icon: la:youtube
+    icon: heroicons-outline:play
     colour: error
   zoom:
-    icon: la:youtube-square
+    icon: grommet-icons:zoom
     colour: info
   course:
-    icon: la:book-open
+    icon: heroicons-outline:book-open
     colour: info
   topic:
-    icon: la:project-diagram
+    icon: heroicons-outline:view-boards
     colour: info
   unit:
-    icon: la:digital-tachograph
+    icon: heroicons-outline:collection
     colour: success
   talk:
-    icon: la:chalkboard-teacher
+    icon: heroicons-outline:presentation-chart-bar
     colour: info
   reference:
-    icon: la:folder-open
+    icon: heroicons-outline:document-duplicate
     colour: warning
   lab:
-    icon: la:flask
+    icon: heroicons-outline:beaker
     colour: success
   archive:
-    icon: la:home
+    icon: heroicons-outline:archive
     colour: info
   web:
-    icon: la:folder-open
+    icon: heroicons-outline:bookmark
     colour: info
   github:
-    icon: la:home
+    icon: heroicons-outline:terminal
     colour: warning
   panelvideo:
-    icon: la:youtube
+    icon: heroicons-outline:play
     colour: error
   left:
-    icon: la:arrow-left
+    icon: heroicons-outline:arrow-left
     colour: success
   right:
-    icon: la:arrow-right
+    icon: heroicons-outline:arrow-right
     colour: success
   print:
-    icon: la:home
+    icon: heroicons-outline:printer
     colour: success
   rotate:
-    icon: la:redo-alt
+    icon: heroicons-outline:refresh
     colour: success
   download:
-    icon: la:arrow-down
+    icon: heroicons-outline:arrow-down
     colour: success
   fullScreen:
-    icon: la:arrows-alt
+    icon: heroicons-outline:arrows-expand
     colour: success
   expand:
-    icon: la:home
+    icon: heroicons-outline:switch-horizontal
     colour: success
   tutorsTime:
-    icon: la:home
+    icon: heroicons-outline:clock
     colour: info
   timeExport:
-    icon: la:home
+    icon: heroicons-outline:save-as
     colour: success
   live:
-    icon: la:home
+    icon: heroicons-outline:users
     colour: success
   search:
-    icon: la:home
+    icon: heroicons-outline:search
     colour: info
   tutors:
-    icon: la:home
+    icon: heroicons-outline:academic-cap
     colour: info
   logout:
-    icon: la:home
+    icon: heroicons-outline:logout
     colour: error
   dark:
-    icon: la:moon
+    icon: heroicons-outline:moon
     colour: warning
   toc:
-    icon: la:bars
+    icon: heroicons-outline:menu-alt-2
   workshop:
-    icon: la:home
+    icon: heroicons-outline:user-group
   compacted:
-    icon: la:grip-vertical
+    icon: heroicons-outline:dots-vertical
   expanded:
-    icon: la:grip-horizontal
+    icon: heroicons-outline:dots-horizontal
   default:
-    icon: la:home
+    icon: heroicons-outline:dots-vertical
