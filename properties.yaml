@@ -8,105 +8,104 @@ ignore:
 
 iconset:
   programHome:
-    type: la:home
-    color: warning
-  moduleHome:
-    type: la:home
-    color: warning
+    icon: heroicons-outline:home
+    colour: success
   slack:
-    type: la:slack
-    color: error
+    icon: grommet-icons:slack
+    colour: error
   moodle:
-    type: la:university
-    color: warning
+    icon: map:university
+    colour: warning
   youtube:
-    type: la:youtube
-    color: error
+    icon: logos:youtube-icon
+    colour: error
   video:
-    type: la:youtube
-    color: error
+    icon: heroicons-outline:play
+    colour: error
   zoom:
-    type: la:youtube-square
-    color: info
+    icon: grommet-icons:zoom
+    colour: info
   course:
-    type: la:book-open
-    color: info
+    icon: heroicons-outline:book-open
+    colour: info
   topic:
-    type: la:project-diagram
-    color: info
+    icon: heroicons-outline:view-boards
+    colour: info
   unit:
-    type: la:digital-tachograph
-    color: success
+    icon: heroicons-outline:collection
+    colour: success
   talk:
-    type: la:chalkboard-teacher
-    color: info
+    icon: heroicons-outline:presentation-chart-bar
+    colour: info
   reference:
-    type: la:folder-open
-    color: warning
+    icon: heroicons-outline:document-duplicate
+    colour: warning
   lab:
-    type: la:flask
-    color: success
+    icon: heroicons-outline:beaker
+    colour: success
   archive:
-    type: la:home
-    color: info
+    icon: heroicons-outline:archive
+    colour: info
   web:
-    type: la:folder-open
-    color: info
+    icon: heroicons-outline:bookmark
+    colour: info
   github:
-    type: la:home
-    color: warning
+    icon: heroicons-outline:terminal
+    colour: warning
   panelvideo:
-    type: la:youtube
-    color: error
+    icon: heroicons-outline:play
+    colour: error
   left:
-    type: la:arrow-left
-    color: success
+    icon: heroicons-outline:arrow-left
+    colour: success
   right:
-    type: la:arrow-right
-    color: success
+    icon: heroicons-outline:arrow-right
+    colour: success
   print:
-    type: la:home
-    color: success
+    icon: heroicons-outline:printer
+    colour: success
   rotate:
-    type: la:redo-alt
-    color: success
+    icon: heroicons-outline:refresh
+    colour: success
   download:
-    type: la:arrow-down
-    color: success
+    icon: heroicons-outline:arrow-down
+    colour: success
   fullScreen:
-    type: la:arrows-alt
-    color: success
+    icon: heroicons-outline:arrows-expand
+    colour: success
   expand:
-    type: la:home
-    color: success
+    icon: heroicons-outline:switch-horizontal
+    colour: success
   tutorsTime:
-    type: la:home
-    color: info
+    icon: heroicons-outline:clock
+    colour: info
   timeExport:
-    type: la:home
-    color: success
+    icon: heroicons-outline:save-as
+    colour: success
   live:
-    type: la:home
-    color: success
+    icon: heroicons-outline:users
+    colour: success
   search:
-    type: la:home
-    color: info
+    icon: heroicons-outline:search
+    colour: info
   tutors:
-    type: la:home
-    color: info
+    icon: fa-solid:chalkboard-teacher
+    colour: white
   logout:
-    type: la:home
-    color: error
+    icon: heroicons-outline:logout
+    colour: error
   dark:
-    type: la:moon
-    color: warning
+    icon: heroicons-outline:moon
+    colour: warning
   toc:
-    type: la:bars
-  workshop:
-    type: la:home
+    icon: heroicons-outline:menu-alt-2
+    colour: white
   compacted:
-    type: la:grip-vertical
+    icon: heroicons-outline:dots-vertical
+    colour: white
   expanded:
-    type: la:grip-horizontal
+    icon: heroicons-outline:dots-horizontal
+    colour: white
   default:
-    type: la:home
+    icon: heroicons-outline:dots-vertical
+    colour: white
