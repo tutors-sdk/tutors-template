@@ -13,9 +13,9 @@ iconset:
   # slack:
   #   icon: grommet-icons:slack
   #   colour: error
-  # moodle:
-  #   icon: fa-solid:graduation-cap
-  #   colour: warning
+  moodle:
+    icon: fa-solid:graduation-cap
+    colour: warning
   # youtube:
   #   icon: logos:youtube-icon
   #   colour: error
