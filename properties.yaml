@@ -7,113 +7,106 @@ ignore:
   - topic-06-next
 
 iconset:
+  programHome:
+    type: la:home
+    color: warning
+  moduleHome:
+    type: la:home
+    color: warning
+  slack:
+    type: la:slack
+    color: error
   moodle:
-    icon: fa-solid:graduation-cap
-    colour: warning
+    type: la:university
+    color: warning
+  youtube:
+    type: la:youtube
+    color: error
   video:
-    icon: el:video-alt
-    colour: error    
-
-  # programHome:
-  #   icon: heroicons-outline:home
-  #   colour: error
-  # moduleHome:
-  #   icon: heroicons-outline:home
-  #   colour: error
-  # slack:
-  #   icon: grommet-icons:slack
-  #   colour: error
-  # moodle:
-  #   icon: map:university
-  #   colour: warning
-  # youtube:
-  #   icon: logos:youtube-icon
-  #   colour: error
-  # video:
-  #   icon: heroicons-outline:play
-  #   colour: error
-  # zoom:
-  #   icon: grommet-icons:zoom
-  #   colour: info
-  # course:
-  #   icon: heroicons-outline:book-open
-  #   colour: info
-  # topic:
-  #   icon: heroicons-outline:view-boards
-  #   colour: info
-  # unit:
-  #   icon: heroicons-outline:collection
-  #   colour: success
-  # talk:
-  #   icon: heroicons-outline:presentation-chart-bar
-  #   colour: info
-  # reference:
-  #   icon: heroicons-outline:document-duplicate
-  #   colour: warning
-  # lab:
-  #   icon: heroicons-outline:beaker
-  #   colour: success
-  # archive:
-  #   icon: heroicons-outline:archive
-  #   colour: info
-  # web:
-  #   icon: heroicons-outline:bookmark
-  #   colour: info
-  # github:
-  #   icon: heroicons-outline:terminal
-  #   colour: warning
-  # panelvideo:
-  #   icon: heroicons-outline:play
-  #   colour: error
-  # left:
-  #   icon: heroicons-outline:arrow-left
-  #   colour: success
-  # right:
-  #   icon: heroicons-outline:arrow-right
-  #   colour: success
-  # print:
-  #   icon: heroicons-outline:printer
-  #   colour: success
-  # rotate:
-  #   icon: heroicons-outline:refresh
-  #   colour: success
-  # download:
-  #   icon: heroicons-outline:arrow-down
-  #   colour: success
-  # fullScreen:
-  #   icon: heroicons-outline:arrows-expand
-  #   colour: success
-  # expand:
-  #   icon: heroicons-outline:switch-horizontal
-  #   colour: success
-  # tutorsTime:
-  #   icon: heroicons-outline:clock
-  #   colour: info
-  # timeExport:
-  #   icon: heroicons-outline:save-as
-  #   colour: success
-  # live:
-  #   icon: heroicons-outline:users
-  #   colour: success
-  # search:
-  #   icon: heroicons-outline:search
-  #   colour: info
-  # tutors:
-  #   icon: heroicons-outline:academic-cap
-  #   colour: info
-  # logout:
-  #   icon: heroicons-outline:logout
-  #   colour: error
-  # dark:
-  #   icon: heroicons-outline:moon
-  #   colour: warning
-  # toc:
-  #   icon: heroicons-outline:menu-alt-2
-  # workshop:
-  #   icon: heroicons-outline:user-group
-  # compacted:
-  #   icon: heroicons-outline:dots-vertical
-  # expanded:
-  #   icon: heroicons-outline:dots-horizontal
-  # default:
-  #   icon: heroicons-outline:dots-vertical
+    type: la:youtube
+    color: error
+  zoom:
+    type: la:youtube-square
+    color: info
+  course:
+    type: la:book-open
+    color: info
+  topic:
+    type: la:project-diagram
+    color: info
+  unit:
+    type: la:digital-tachograph
+    color: success
+  talk:
+    type: la:chalkboard-teacher
+    color: info
+  reference:
+    type: la:folder-open
+    color: warning
+  lab:
+    type: la:flask
+    color: success
+  archive:
+    type: la:home
+    color: info
+  web:
+    type: la:folder-open
+    color: info
+  github:
+    type: la:home
+    color: warning
+  panelvideo:
+    type: la:youtube
+    color: error
+  left:
+    type: la:arrow-left
+    color: success
+  right:
+    type: la:arrow-right
+    color: success
+  print:
+    type: la:home
+    color: success
+  rotate:
+    type: la:redo-alt
+    color: success
+  download:
+    type: la:arrow-down
+    color: success
+  fullScreen:
+    type: la:arrows-alt
+    color: success
+  expand:
+    type: la:home
+    color: success
+  tutorsTime:
+    type: la:home
+    color: info
+  timeExport:
+    type: la:home
+    color: success
+  live:
+    type: la:home
+    color: success
+  search:
+    type: la:home
+    color: info
+  tutors:
+    type: la:home
+    color: info
+  logout:
+    type: la:home
+    color: error
+  dark:
+    type: la:moon
+    color: warning
+  toc:
+    type: la:bars
+  workshop:
+    type: la:home
+  compacted:
+    type: la:grip-vertical
+  expanded:
+    type: la:grip-horizontal
+  default:
+    type: la:home
