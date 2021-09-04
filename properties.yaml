@@ -14,7 +14,7 @@ iconset:
     icon: grommet-icons:slack
     colour: error
   moodle:
-    icon: map:university
+    icon: fa-solid:graduation-cap
     colour: warning
   youtube:
     icon: logos:youtube-icon
