@@ -6,7 +6,7 @@ ignorepin : 4321
 ignore:
   - topic-06-next
 
-iconsset:
+iconset:
   moodle:
     icon: fa-solid:graduation-cap
     colour: warning
