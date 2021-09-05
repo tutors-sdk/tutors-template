@@ -7,15 +7,18 @@ ignore:
   - topic-06-next
 
 iconset:
+  moodle:
+    icon: fa-solid:graduation-cap
+    colour: warning
+  github:
+    icon: logos:github-octocat
+    colour: warning    
   # programHome:
   #   icon: heroicons-outline:home
   #   colour: success
   # slack:
   #   icon: grommet-icons:slack
   #   colour: error
-  moodle:
-    icon: fa-solid:graduation-cap
-    colour: warning
   # youtube:
   #   icon: logos:youtube-icon
   #   colour: error
