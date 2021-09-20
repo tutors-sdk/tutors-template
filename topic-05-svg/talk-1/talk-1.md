@@ -1,7 +1,7 @@
 ---
 icon: 
   type: fad:logo-audacity
-  color: red
+  color: 1BCE8D
 ---
 
 Lecture 1
