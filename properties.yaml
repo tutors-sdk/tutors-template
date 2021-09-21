@@ -3,7 +3,7 @@ moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
 youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
 credits: Your Name Here, WIT
 ignorepin : 4321
-labstepsnumber: 1
+labStepsAutoNumber: true
 ignore:
   - topic-06-next
 
