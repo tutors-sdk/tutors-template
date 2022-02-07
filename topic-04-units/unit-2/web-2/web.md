@@ -1,3 +1,3 @@
-Lecture 9
+Link to Video
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+This is a link to an existing video resource in this course

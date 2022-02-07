@@ -1,3 +1,3 @@
-Lecture 8
+Link to Talk
 
-A short summary of the talk, no more than two sentences. Avoid bullet points or links for formatting reasons.
+This is a link to an existing talk in this course
