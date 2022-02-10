@@ -1,3 +1,3 @@
-Panel Talk + Note
+Panel Talk 
 
-Example of Panel + Note object
+Example of Panel 

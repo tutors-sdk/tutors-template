@@ -5,7 +5,7 @@ credits: Your Name Here, WIT
 ignorepin : 4321
 labStepsAutoNumber: true
 ignore:
-  - topic-06-next
+  - topic-07-next
 
 iconset:
   moodle:
