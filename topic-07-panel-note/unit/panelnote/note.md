@@ -1,4 +1,4 @@
-# Exercise 01
+# Panel Note
 
 The current track-mongo-model is partially complete:
 

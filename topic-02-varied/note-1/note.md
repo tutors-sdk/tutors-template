@@ -1,6 +1,6 @@
-# Refactor Tests
+# Note Example
 
-This is the current structure of our tests:
+This is an example of a note
 
 ![](img/01.png)
 
