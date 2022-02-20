@@ -1,34 +1,38 @@
-# Note Example
+# Refactor Tests
 
-Any markdown you like here
+This is the current structure of our tests:
 
-Sometimes you want numbered lists:
+![](img/01.png)
 
-1. One
-2. Two
-3. Three
+Restructure your tests into the following structure:
 
-Sometimes you want bullet points:
+![](img/02.png)
 
-* Start a line with a star
-* Profit!
+We are just moving our model tests into a subfolder. 
 
-Alternatively,
+If you use the IDE to drag and drop these sources, we would expect the import paths to be updated by the IDE to reflect the relocation. This is the refactoring behaviour built in to most IDEs.
 
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
+We are about to construct an API for our application, and we will start by scaffolding up some tests of this API in parallel with building out the API itself. These is the structure we are aiming for:
 
- # Images
+![](img/03.png)
 
-Image without a title:
+Start with this empty test:
 
-![](img/04.jpg)
+## user-api-test.js
 
-Image with a title:
+~~~javascript
+import { playtimeService } from "./playtime-service.js";
 
-![This is a Stone Arch](img/03.jpg)
+suite("User API tests", () => {
+  setup(async () => {
+  });
+  teardown(async () => {
+  });
+
+  test("create a user", async () => {
+  });
+});
+~~~
 
 # Exercises & Archives
 
