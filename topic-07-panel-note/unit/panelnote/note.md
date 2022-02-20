@@ -1,37 +1,16 @@
-# Note Example
+# Exercise 01
 
-Any markdown you like here
+The current track-mongo-model is partially complete:
 
-Sometimes you want numbered lists:
+~~~javascript
+import { Track } from "./track.js";
 
-1. One
-2. Two
-3. Three
+export const trackMongoStore = {
+  async getTracksByPlaylistId(id) {
+    const tracks = await Track.find({ playlistid: id }).lean();
+    return tracks;
+  },
+};
+~~~
 
-Sometimes you want bullet points:
-
-* Start a line with a star
-* Profit!
-
-Alternatively,
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
-
- # Images
-
-Image without a title:
-
-![](img/04.jpg)
-
-Image with a title:
-
-![This is a Stone Arch](img/03.jpg)
-
-# Exercises & Archives
-
-You can link to zipped archives:
-
-- [Solutions](./archives/archive.zip)
+Complete this now, but do so in conjunction with a set of Track model tests. You can base these tests on the existing playlist tests.
