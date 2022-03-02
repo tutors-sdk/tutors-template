@@ -1,3 +1,7 @@
+---
+order: 1
+---
+
 # Note Example
 
 This is an example of a note
