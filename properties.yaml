@@ -12,7 +12,7 @@ companions:
     title : Piazza Q & A for this course
     icon: 
       icon: academicons:piazza
-      colour: 428ACA
+      colour: success
 
 iconset:
   moodle:
