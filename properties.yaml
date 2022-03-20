@@ -11,8 +11,8 @@ companions:
     link : https://piazza.com/
     title : Piazza Q & A for this course
     icon: 
-      type: academicons:piazza
-      color: 428ACA
+      type : grommet-icons:zoom
+      color : 428ACA
 
 iconset:
   moodle:
