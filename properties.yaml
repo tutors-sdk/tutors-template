@@ -1,4 +1,3 @@
-slack: https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
 moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
 youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
 credits: Your Name Here, WIT
@@ -7,6 +6,17 @@ labStepsAutoNumber: true
 ignore:
   - topic-08-next
 
+companions:
+  slack:
+    link : https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
+    title : Slack organisation for this course
+    icon : logos:slack-icon
+  moodle:
+    link : https://moodle.wit.ie/
+    title : Moodle module for this course
+    icon : academicons:moodle-square
+    color : orange
+    
 iconset:
   moodle:
     icon: fa-solid:graduation-cap
