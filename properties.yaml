@@ -7,16 +7,13 @@ ignore:
   - topic-08-next
 
 companions:
-  slack:
-    link : https://tutors-ts-group.slack.com/messages/CCKS0HR0Q
-    title : Slack organisation for this course
-    icon : logos:slack-icon
-  moodle:
-    link : https://moodle.wit.ie/
-    title : Moodle module for this course
-    icon : academicons:moodle-square
-    color : orange
-    
+  piazza:
+    link : https://piazza.com/
+    title : Piazza Q & A for this course
+    icon: 
+      type: academicons:piazza
+      color: 428ACA
+
 iconset:
   moodle:
     icon: fa-solid:graduation-cap
