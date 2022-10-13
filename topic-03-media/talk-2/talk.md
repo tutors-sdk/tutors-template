@@ -1,3 +1,3 @@
 Lecture
 
-Provide a short summary, perhaps supported by a representative image.
+This one just has a video, no PDF

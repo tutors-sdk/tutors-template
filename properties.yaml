@@ -1,24 +1,23 @@
-moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
-youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
-credits: Your Name Here, WIT
-ignorepin : 4321
+credits: A reference course containing all supported learning objects
+ignorepin: 4321
 labStepsAutoNumber: true
 ignore:
   - topic-08-next
 
+moodle: https://moodle.wit.ie/course/view.php?id=118143&section=3
+youtube: https://www.youtube.com/playlist?list=PLMW4bgOfD3Dwi6FWirJ3AQtXZ-N_hV3Eo
 companions:
   piazza:
-    link : https://piazza.com/
-    title : Piazza Q & A for this course
-    icon: 
+    link: https://piazza.com/
+    title: Piazza Q & A for this course
+    icon:
       icon: academicons:piazza
       colour: info
   teams:
-    link : https://teams.com
-    title : Teams channel for this course
-    icon: 
+    link: https://teams.com
+    title: Teams channel for this course
+    icon:
       icon: logos:microsoft-teams
-  
 
 iconset:
   moodle:
@@ -26,7 +25,7 @@ iconset:
     colour: warning
   github:
     icon: logos:github-octocat
-    colour: warning    
+    colour: warning
   # programHome:
   #   icon: heroicons-outline:home
   #   colour: success
