@@ -4,7 +4,7 @@ order: 1
 
 # Note Example
 
-This is an example of a note
+A note is a document written in Makrdown
 
 ![](img/01.png)
 

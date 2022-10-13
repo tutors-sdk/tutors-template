@@ -1,3 +1,3 @@
-# Hidden Simple 
+# Hidden
 
-Just lectures and labs
+Hidden until PIN code entered

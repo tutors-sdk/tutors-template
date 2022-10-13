@@ -5,4 +5,4 @@ icon:
 
 # Cards with SVG
 
-Just lectures and labs
+Learning objects with SVG images

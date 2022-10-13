@@ -1,3 +1,3 @@
 # Simple 
 
-Just lectures and labs
+Simple Topic with lectures + a lab

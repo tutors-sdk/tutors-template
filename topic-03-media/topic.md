@@ -1,3 +1,3 @@
 # Media
 
-Include 2 type of videos 
+Videos presented in various contexts

@@ -1,3 +1,3 @@
 Panel Note
 
-Example of Panel Note
+Panel note promotes a note to Topic level

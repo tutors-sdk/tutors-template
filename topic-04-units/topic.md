@@ -1,3 +1,3 @@
 # Units
 
-This topic has 3 units - each unit has lectures + lab
+Units which contain variety of learning objects
