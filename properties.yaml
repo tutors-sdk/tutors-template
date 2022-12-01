@@ -1,7 +1,7 @@
 credits: A reference course containing all supported learning objects
 ignorepin: 4321
 labStepsAutoNumber: true
-auth: 0
+auth: 1
 ignore:
   - topic-08-next
 
