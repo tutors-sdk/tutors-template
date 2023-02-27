@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy HTML
 on:
     workflow_dispatch:
     push:
