@@ -1,4 +1,4 @@
-name: Deploy
+name: Deploy JSON
 on:
     workflow_dispatch:
     push:
